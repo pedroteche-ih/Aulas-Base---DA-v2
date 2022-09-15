@@ -2,3 +2,6 @@ credentials/mysql.env
 credentials/spotify.env
 .DS_Store
 .DS_Store
+data/frio_2018_2020.csv
+anonym_dia.ipynb
+data/frio_2018_2020.csv
