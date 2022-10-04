@@ -5,3 +5,4 @@ credentials/spotify.env
 data/frio_2018_2020.csv
 anonym_dia.ipynb
 data/frio_2018_2020.csv
+data/household_power_consumption.txt
