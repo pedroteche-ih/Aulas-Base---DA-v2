@@ -1,0 +1,1 @@
+**38 - Métodos Regressivos.ipynb**: Contém um trecho sobre PLS (Partial Least Squares) excluído para turma 79 DAPT.
