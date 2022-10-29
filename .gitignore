@@ -13,3 +13,7 @@ projetos/Favorita/data/stores.csv
 projetos/Favorita/data/test.csv
 projetos/Favorita/data/train.csv
 projetos/Favorita/data/transactions.csv
+data/transactions_train.csv
+data/Dados H&M.ipynb
+data/customers.csv
+data/articles.csv
